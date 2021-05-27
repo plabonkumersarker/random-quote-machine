@@ -1,0 +1,12 @@
+.wrapper{
+  min-height: 100vh;
+}
+.box{
+  position: absolute;
+  background-color: #fff;
+  background: rgba(255, 255, 255, 0.5); 
+}
+.bg-img{
+  background-repeat: no-repeat;
+  background-size: cover;
+}
